@@ -1,0 +1,5 @@
+terraform.tfstate
+terraform.tfstate.backup 
+install_apache.sh* 
+.terraform/ 
+.terraform.lock.hcl
